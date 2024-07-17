@@ -1,0 +1,9 @@
+run command 
+
+-> npm init -y
+-> npm init
+
+and  then  
+run  tis command 
+
+-> node listFiles.js
